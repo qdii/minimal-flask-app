@@ -1,0 +1,11 @@
+contents:
+  repositories:
+    - https://dl-cdn.alpinelinux.org/alpine/v3.20/main
+  packages:
+    - bash
+    - python3
+
+cmd: /bin/sh -l
+
+archs:
+  - amd64
