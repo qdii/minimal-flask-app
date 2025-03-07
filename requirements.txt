@@ -8,9 +8,9 @@ blinker==1.8.2
     # via flask
 click==8.1.7
     # via flask
-flask==3.0.3
+flask==2.3.3
     # via -r requirements.in
-gunicorn==23.0.0
+gunicorn==21.2.0
     # via -r requirements.in
 itsdangerous==2.2.0
     # via flask
